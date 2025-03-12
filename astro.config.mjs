@@ -1,8 +1,6 @@
-import { defineConfig } from 'astro/config';
+import { defineConfig } from 'astro/config'
 
 export default defineConfig({
-  site: 'https://Loukkka.github.io',
+  site: 'https://astronaut.github.io',
   base: 'TestTd',
-  outDir: 'public',
-  publicDir: 'static',
-});
+})
